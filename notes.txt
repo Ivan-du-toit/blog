@@ -1,0 +1,6 @@
+Themes:
+hugo-mdl
+hugo-uno
+hyde-x
+redlounge
+twentyfourteen

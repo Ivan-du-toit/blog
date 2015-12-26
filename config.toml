@@ -1,0 +1,26 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Try ... Finally"
+theme = "redlounge"
+[params]
+    description = "Reports on my trails and tribulations"
+    author = "Ivan du Toit"
+    sidebartitle = "Try ... Finally"
+    sidebartagline = "Reports on my trails and tribulations"
+    sidebarphoto = "/img/profile.jpg"
+[[menu.main]]
+    Name = "Blog"
+    url = "/posts"
+[[menu.main]]
+	Name = "Quotes"
+	url = "/pages/quotes"
+[[menu.main]]
+	Name = "Laws"
+	url = "/pages/laws"
+[[menu.social]]
+        pre = "<i class='fa fa-twitter'></i>"
+    url = "http://www.twitter.com/anilihst"
+    identifier = "twitter"
+[[menu.footer]]
+    name = "Blog"
+    url = "/posts"
