@@ -1,7 +1,7 @@
 +++
 title = "Favorite Quotes"
-date = 2015-11-14T21:25:00Z
-updated = 2015-11-14T21:25:45Z
+date = 2016-02-14T21:25:00Z
+updated = 2016-02-14T21:25:45Z
 tags = ["Quotes"]
 author = "Ivan du Toit"
 authorlink = "https://plus.google.com/109733145121386015159"
@@ -14,7 +14,7 @@ This is a collection of quotes that I found profound or interestion. Enjoy:
 <i>"To educate a man in mind and not in morals is to educate a menace to society"</i> - <span style="background-color: white;"><b>Theodore Roosevelt</b></span>
 </p>
 <p>
-<i> “I write you a long letter because I’m too damn angry to write you a short one.”</i> - <b>Blaise Pascal</b>
+<i> "I write you a long letter because I'm too damn angry to write you a short one."</i> - <b>Blaise Pascal</b>
 </p>
 <p>
 <i> "The things that will destroy America are prosperity-at-any-price, peace-at-any-price, safety-first instead of duty-first, the love of soft living, and the get-rich-quick theory of life." </i>- <b>Theodore Roosevelt </b>
@@ -56,7 +56,7 @@ This is a collection of quotes that I found profound or interestion. Enjoy:
 <i>Mowery's Observation: "It's hard to make things foolproof because fools are so darn ingenious."</i> - <b>Dave Mowery</b>
 </p>
 <p>
-<i>“The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man.”</i> -<b> George Bernard Shaw</b>
+<i>"The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man."</i> -<b> George Bernard Shaw</b>
 </p>
 <p>
 <i>"Be boring and orderly in your life, so that you may be violent and original in your work."</i> - <b>Gustave Flaubert.</b>
