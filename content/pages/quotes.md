@@ -3,9 +3,8 @@ title = "Favorite Quotes"
 date = 2015-11-14T21:25:00Z
 updated = 2015-11-14T21:25:45Z
 tags = ["Quotes"]
-[author]
-	name = "Ivan du Toit"
-	uri = "https://plus.google.com/109733145121386015159"
+author = "Ivan du Toit"
+authorlink = "https://plus.google.com/109733145121386015159"
 +++
 
 This is a collection of quotes that I found profound or interestion. Enjoy:

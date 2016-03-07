@@ -3,9 +3,8 @@ title = "Laws to Live By"
 date = 	2013-09-16T21:25:00Z
 updated = 2013-09-16T21:25:00Z
 tags = ["Quotes"]
-[author]
-	name = "Ivan du Toit"
-	uri = "https://plus.google.com/109733145121386015159"
+author = "Ivan du Toit"
+authorlink = "https://plus.google.com/109733145121386015159"
 +++
 
 <h4>
