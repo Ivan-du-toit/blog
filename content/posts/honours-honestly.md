@@ -8,7 +8,7 @@ author = "Ivan du Toit"
 authorLink = "https://plus.google.com/109733145121386015159"
 +++
 
-<h2>Do I have to?</h2>Now we come to the main point of this series of posts - what should I do next? I decided that studying was worth more than going straight to a job, but does that hold true for honours? Ok, back to the <strike>bat cave</strike> value/cost comparison. Most of the values and costs carry over so I will only highlight the differences as detailed in my [previous post]({{< ref "http://blog.tryfinally.co.za/2013/06/the-practical-value-of-bsc-cs-degree.html" >}}).
+<h2>Do I have to?</h2>Now we come to the main point of this series of posts - what should I do next? I decided that studying was worth more than going straight to a job, but does that hold true for honours? Ok, back to the <strike>bat cave</strike> value/cost comparison. Most of the values and costs carry over so I will only highlight the differences as detailed in my [previous post]({{< ref "posts/the-practical-value-of-a-bsc-cs-degree..md" >}}).
 
 <h2>The value</h2>
 <ul>

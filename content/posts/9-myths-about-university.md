@@ -51,4 +51,4 @@ I was homeschooled, I never attended any school. The first time I experienced ed
 <p>While I might come across as bleak and overly judgemental, it is only because I think that change is possible and the result of that change will be a much friendlier, productive and happy place to enjoy this amazing endeavor that is learning. I also know that these problems are not impossible to overcome. I had an AI module last year that solved almost all of these problems. So I am optimistic that the university could come much closer to what I dreamed about but we have to care and change and then care some more.</p>
 <p>If you agree with me or if you think that I am crazy or just plain wrong please tell me. Learning is very close to my heart and I would like to make it as easy as possible for as many people as possible to enjoy this wonderful experience with me.
 
-On to the <a href="http://blog.tryfinally.co.za/2013/06/the-practical-value-of-bsc-cs-degree.html" target="_blank">next post</a>.</p>
+On to the [next post]({{< ref "posts/the-practical-value-of-a-bsc-cs-degree..md" >}}).</p>
