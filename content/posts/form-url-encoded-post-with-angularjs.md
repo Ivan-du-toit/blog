@@ -3,9 +3,54 @@ title = "Form URL encoded post with AngularJS"
 date = 2012-12-20T18:45:00Z
 updated = 2013-09-26T23:24:53Z
 tags = ["POST", "encoding", "Javascript", "AngularJS", "form"]
-blogimport = true 
+blogimport = true
 author = "Ivan du Toit"
 authorLink = "https://plus.google.com/109733145121386015159"
 +++
 
-The AngularJS framework is amazing in many things but I had a hell of a time trying to get the $http.post function to encode and send my object correctly.<br /><br />The first thing you should do is set the content type, either&nbsp;globally&nbsp;like this<br /><br /><pre class="brush:js">$http.defaults.headers.post["Content-Type"] = "application/x-www-form-urlencoded";</pre><br />or in the request like this:<br /><br /><pre class="brush:js">$http.post('/foo/bar', postData,{<br />    headers:{'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'} }).success(function(responseData) { /*do stuff with response*/ });<br /></pre><br />Then you have to encode the data from your object to a URL encoded string.<br /><br />A hack around this problem is to just have a single post item and then serialize the object to that value and then just unserialze from that item to the object on the server like this:<br /><br /><pre class="brush:js">$http.post('/foo/bar', 'data='+$filter('json')(postData))<br /> .success(function(data) {<br />  //do stuff with response<br /> });<br /></pre><br />This looks very strange but it is the way filters work in AngularJS.<br /><br />There are two problems with approach it is difficult to sanitize on the server and it is just not the right way to do it. I then wrote this function to transform the data:<br /><br /><pre class="brush:js">function formEncode(obj) {<br />  var encodedString = '';<br />  for (var key in obj) {<br />    if (encodedString.length !== 0) {<br />      encodedString += '&amp;';<br />    }<br /><br />    encodedString += key + '=' + encodeURIComponent(obj[key]);<br />  }<br />  return encodedString.replace(/%20/g, '+');<br />}<br /></pre><br />Which is then used like this:<br /><br /><pre class="brush:js">$http.post('/foo/bar', formEncode(postData))<br /> .success(function(data) {<br />  //do stuff with response<br /> });<br /></pre><br />What is does is take the properties of the given object and turn that into the post fields and then JSON encodes the values, this insures that nested objects will work correctly.<br /><br />It needs some&nbsp;further&nbsp;refinement but I just refuse to include JQuery just to use the $.param() function. I also feel much more comfortable with this than some of the other hacks that I saw while trying to solve this problem.
+The AngularJS framework is amazing in many things but I had a hell of a time trying to get the $http.post function to encode and send my object correctly. The first thing you should do is set the content type, either globally like this
+{{< highlight js >}}
+$http.defaults.headers.post["Content-Type"] = "application/x-www-form-urlencoded";
+{{< /highlight >}}
+or in the request like this:
+{{< highlight js>}}
+$http.post('/foo/bar', postData,headers:{
+    'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
+}).success(function(responseData) { /*do stuff with response*/ });
+{{< /highlight >}}
+Then you have to encode the data from your object to a URL encoded string.
+
+A hack around this problem is to just have a single post item and then serialize the object to that value and then just unserialze from that item to the object on the server like this:
+{{< highlight js >}}
+$http.post('/foo/bar', 'data='+$filter('json')(postData))
+    .success(function(data) {
+        //do stuff with response
+    });
+{{< /highlight >}}
+This looks very strange but it is the way filters work in AngularJS.
+
+There are two problems with approach it is difficult to sanitize on the server and it is just not the right way to do it. I then wrote this function to transform the data:
+
+{{< highlight js >}}
+function formEncode(obj) {
+    var encodedString = '';
+    for (var key in obj) {
+        if (encodedString.length !== 0) {
+              encodedString += '&amp;';
+        }
+
+        encodedString += key + '=' + encodeURIComponent(obj[key]);
+    }
+    return encodedString.replace(/%20/g, '+');
+}
+{{< /highlight >}}
+Which is then used like this:
+{{< highlight js >}}
+$http.post('/foo/bar', formEncode(postData))
+    .success(function(data) {
+        //do stuff with response
+    });
+{{< /highlight >}}
+What is does is take the properties of the given object and turn that into the post fields and then JSON encodes the values, this insures that nested objects will work correctly.
+
+It needs some further refinement but I just refuse to include JQuery just to use the $.param() function. I also feel much more comfortable with this than some of the other hacks that I saw while trying to solve this problem.

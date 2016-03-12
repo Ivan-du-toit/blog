@@ -40,3 +40,6 @@ theme = "redlounge"
 [[menu.footer]]
     name = "Blog"
     url = "/posts"
+[[menu.footer]]
+    name = "Quotes"
+    url = "/pages/quotes"

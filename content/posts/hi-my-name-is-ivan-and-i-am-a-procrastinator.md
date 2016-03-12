@@ -3,7 +3,7 @@ title = "Hi, My name is Ivan and I am a procrastinator"
 date = 2015-11-14T18:20:00Z
 updated = 2015-11-14T18:20:55Z
 tags = ["social", "think", "challenge", "Views", "Learning", "Opinion", "Ideas", "Thinking"]
-blogimport = true 
+blogimport = true
 author = "Ivan du Toit"
 authorLink = "https://plus.google.com/109733145121386015159"
 +++
@@ -17,4 +17,13 @@ authorLink = "https://plus.google.com/109733145121386015159"
 <p>When you are confronted with a certain realization that has a big effect on you life it has the possibility to be dark and depress but it should not. You should celebrate this as victory, the revelation of the enlightening. The start of the change that can be achieved with knowledge, persistence and handwork.</p>
 <p>Okay?</p>
 <p>To move forward and take control of this invisible monkey on your back:<p>
-<ol><li>You need to form better habits.</li><li>You need to set yourself proper goals based on what you want to achieve</li><ol><li>You then need to start aligning the things that you focus on, to the above goals</li></ol><li>You need to understand first and foremost why you procrastinate.</li></ol><div>The answers to these questions don't have to be the constant. Change is good but keep the focus on where you want to go not just your fancy at some point in time. Endurance is key.</div>
+<ol>
+    <li>You need to form better habits.</li>
+    <li>You need to set yourself proper goals based on what you want to achieve</li>
+    <ol>
+        <li>You then need to start aligning the things that you focus on, to the above goals</li>
+    </ol>
+    <li>You need to understand first and foremost why you procrastinate.</li>
+</ol>
+
+The answers to these questions don't have to be the constant. Change is good but keep the focus on where you want to go not just your fancy at some point in time. Endurance is key.

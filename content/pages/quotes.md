@@ -11,7 +11,7 @@ This is a collection of quotes that I found profound or interestion. Enjoy:
 
 <div>
 <p>
-<i>"To educate a man in mind and not in morals is to educate a menace to society"</i> - <span style="background-color: white;"><b>Theodore Roosevelt</b></span>
+<i>"To educate a man in mind and not in morals is to educate a menace to society"</i> - <b>Theodore Roosevelt</b>
 </p>
 <p>
 <i> "I write you a long letter because I'm too damn angry to write you a short one."</i> - <b>Blaise Pascal</b>
@@ -38,7 +38,7 @@ This is a collection of quotes that I found profound or interestion. Enjoy:
 <i>"A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, play solitaire, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."</i> - <b>Robert Heinlein</b> (slightly edited)
 </p>
 <p>
-<i>Theory vs practice: "In theory there is no difference between theory and practice. In practice, there is."</i>&nbsp;- <b>Yogi Berra</b>
+<i>Theory vs practice: "In theory there is no difference between theory and practice. In practice, there is."</i> - <b>Yogi Berra</b>
 </p>
 <p>
 <i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i> - <b>Howard Aiken</b>
@@ -62,7 +62,7 @@ This is a collection of quotes that I found profound or interestion. Enjoy:
 <i>"Be boring and orderly in your life, so that you may be violent and original in your work."</i> - <b>Gustave Flaubert.</b>
 </p>
 <p>
-<i>"Who knows nothing is closer to the truth than he whose mind is filled with falsehoods and errors."</i>&nbsp;- <b>Thomas Jefferson</b>.
+<i>"Who knows nothing is closer to the truth than he whose mind is filled with falsehoods and errors."</i> - <b>Thomas Jefferson</b>.
 </p>
 <p>
 <i>"The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it."</i> - <b>Sir Terry Pratchett</b>
