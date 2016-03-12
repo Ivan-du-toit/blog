@@ -2,6 +2,7 @@ baseurl = "https://d9ljg3fej692s.cloudfront.net"
 languageCode = "en-us"
 title = "Try ... Finally"
 theme = "redlounge"
+disqusShortname = "tryfinally"
 [taxonomies]
     tag = "tags"
     category = "categories"
