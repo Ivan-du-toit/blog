@@ -8,7 +8,7 @@
 
 	<div id="layout" class="pure-g">
     {{ partial "sidebar.html" . }}
-	
+
 	{{ if .Params.banner }}
 	<div class="content-banner-image pure-u-1 pure-u-md-3-4" style="{{ if .Params.bannerheight }}height: {{ .Params.bannerheight }}px;{{ end }}">
 		<img src="{{ .Params.banner }}" class="pure-img" style="{{ if .Params.bannerfill }}width: 100%;{{ end }}" />
@@ -64,9 +64,30 @@
                                      style="{{ if .Params.bannerfill }}width: 100%;{{ end }}
                                             {{ if .Params.bannerheight }}height: {{ .Params.bannerheight }}px;{{ end }}" />
 			{{ end }}
+			{{ if .Params.series }}
+				{{ $name := index .Params.series 0 }}
+				This post is part of the <a href="/series/{{ $name | urlize }}" id="series"><b>{{$name}}</b></a> series.
+				{{ $name := $name | urlize }}
+				{{ $page_link := .Permalink }}
+				{{ $series := index .Site.Taxonomies.series $name }}
+				<ul class="series">
+					{{ range $series.Pages.ByDate }}
+						{{ $page := . }}
+					<li class="series-list">
+					{{ if (ne $page_link .Permalink)}}
+						<a href="{{.Permalink}}">{{.LinkTitle}}</a>
+					{{else}}
+						<b>{{.LinkTitle}}</b>
+					{{end}}
+					</li>
+				{{end}}
+				</ul>
+				<hr/>
+			</hr/>
+			{{end}}
 
             {{ .Content }}
-	
+
 			{{ if .Params.socialsharing }}
 		    	{{ partial "socialsharing.html" . }}
 		    {{ end }}
@@ -98,11 +119,15 @@
 		            {{ end }}
 	            </div>
             {{ end }}
+
           </section>
+
+
+
           {{ if not .Params.nocomment }}
           	{{ template "_internal/disqus.html" . }}
           {{ end }}
-        
+
       {{ partial "footer.html" . }}
     </div>
   </div>
