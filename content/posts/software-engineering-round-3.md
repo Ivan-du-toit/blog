@@ -3,7 +3,9 @@ title = "Software Engineering: Round 3"
 date = 2013-03-16T00:46:00Z
 updated = 2013-03-16T00:48:12Z
 tags = ["Leadership styles", "Group work", "Student", "Univeristy", "Learning", "Team Work", "software engineering"]
-blogimport = true 
+Categories = [ "Education" ]
+series = ["Software Engineering Project"]
+blogimport = true
 author = "Ivan du Toit"
 authorLink = "https://plus.google.com/109733145121386015159"
 +++

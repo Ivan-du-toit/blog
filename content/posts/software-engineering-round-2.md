@@ -3,6 +3,8 @@ title = "Software Engineering: Round 2"
 date = 2013-03-13T01:59:00Z
 updated = 2013-03-13T01:59:50Z
 blogimport = true 
+categories = [ "Education" ]
+series = [ "Software Engineering Project" ]
 author = "Ivan du Toit"
 authorLink = "https://plus.google.com/109733145121386015159"
 +++

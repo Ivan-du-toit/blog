@@ -1,7 +1,11 @@
-baseurl = "/"
+baseurl = "https://d9ljg3fej692s.cloudfront.net"
 languageCode = "en-us"
 title = "Try ... Finally"
 theme = "redlounge"
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
 [params]
     description = "Reports on my trails and tribulations"
     author = "Ivan du Toit"
@@ -19,8 +23,20 @@ theme = "redlounge"
 	url = "/pages/laws"
 [[menu.social]]
         pre = "<i class='fa fa-twitter'></i>"
-    url = "http://www.twitter.com/anilihst"
+    url = "https://www.twitter.com/anilihst"
     identifier = "twitter"
+[[menu.social]]
+        pre = "<i class='fa fa-github'></i>"
+    url = "https://github.com/Ivan-du-toit"
+    identifier = "Gitbub"
+[[menu.social]]
+        pre = "<i class='fa fa-linkedin'></i>"
+    url = "https://za.linkedin.com/in/ivan-du-toit-33a93013"
+    identifier = "LinkedIn"
+[[menu.social]]
+        pre = "<i class='fa fa-rss'></i>"
+    url = "/index.xml"
+    identifier = "RSS"
 [[menu.footer]]
     name = "Blog"
     url = "/posts"
