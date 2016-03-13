@@ -2,6 +2,7 @@
 title = "Software Engineering: Round 3"
 date = 2013-03-16T00:46:00Z
 updated = 2013-03-16T00:48:12Z
+aliases = ["/2013/03/software-engineering-round-3.html"]
 tags = ["Leadership styles", "Group work", "Student", "Univeristy", "Learning", "Team Work", "software engineering"]
 Categories = [ "Education" ]
 series = ["Software Engineering Project"]

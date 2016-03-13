@@ -3,6 +3,7 @@ title = "Software Engineering: Round 2"
 date = 2013-03-13T01:59:00Z
 updated = 2013-03-13T01:59:50Z
 blogimport = true
+aliases = ["/2013/03/software-engineering-round-2.html"]
 categories = [ "Education" ]
 series = [ "Software Engineering Project" ]
 author = "Ivan du Toit"

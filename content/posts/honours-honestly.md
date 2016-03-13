@@ -2,6 +2,7 @@
 title = "Honours Honestly"
 date = 2013-06-13T17:53:00Z
 updated = 2013-06-13T17:53:40Z
+aliases = ["/2013/06/honours-honestly.html"]
 tags = ["Students", "Decisions", "Teaching", "Exam", "quantification", "Programmer", "Programming", "University", "Education", "Online Learning", "Idea", "Learning", "Opinion", "Study"]
 blogimport = true
 author = "Ivan du Toit"

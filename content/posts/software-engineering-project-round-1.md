@@ -3,6 +3,7 @@ title = "Software Engineering Project: Round 1"
 date = 2013-03-08T10:37:00Z
 updated = 2013-03-13T02:11:23Z
 blogimport = true
+aliases = ["/2013/03/software-engineering-project-round1.html"]
 Tags = [ "Education","project"]
 categories = [ "Education" ]
 series = [ "Software Engineering Project" ]

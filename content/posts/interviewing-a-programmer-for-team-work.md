@@ -2,6 +2,7 @@
 title = "Interviewing a Programmer For Team Work"
 date = 2012-10-03T19:48:00Z
 updated = 2012-12-17T12:09:00Z
+aliases = ["/2012/10/interviewing-programmer-for-team-work.html"]
 tags = ["Job", "Interview", "Games", "Wild Idea", "Team Work"]
 blogimport = true
 author = "Ivan du Toit"

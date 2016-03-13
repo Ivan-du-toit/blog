@@ -2,6 +2,7 @@
 title = "Software Engineering Round 4"
 date = 2013-07-21T18:47:00Z
 updated = 2013-08-23T15:32:13Z
+aliases = ["/2013/07/software-engineering-round-4.html"]
 tags = ["University", "Leadership styles", "Education", "Group work", "information", "Opinion", "Wild Idea", "Study", "Team Work", "software engineering"]
 categories = ["Education"]
 series = ["Software Engineering Project" ]

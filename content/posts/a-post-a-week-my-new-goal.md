@@ -2,6 +2,7 @@
 title = "A Post a Week; My New Goal"
 date = 2015-06-16T15:24:00Z
 updated = 2015-06-16T15:24:51Z
+aliases = ["/2015/06/a-post-week-my-new-goal.html"]
 tags = ["goals", "work", "year", "challenge", "blog"]
 blogimport = true
 author = "Ivan du Toit"

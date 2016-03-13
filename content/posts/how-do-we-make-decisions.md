@@ -2,6 +2,7 @@
 title = "How do we make decisions?"
 date = 2015-07-05T21:25:00Z
 updated = 2015-07-05T21:25:45Z
+aliases = ["/2015/07/how-do-we-make-decisions.html"]
 tags = ["Decision making", "process", "Decisions", "quantification", "information"]
 blogimport = true
 author = "Ivan du Toit"
@@ -32,6 +33,6 @@ Also remember that most decisions also contain a certain amount of risk and chan
 <h4>Do a sanity check</h4>
 It is very helpful to just do a sanity check after you reached a conclusion by testing the answer against some rough plan or known property. This is very context specific but could be something as simple as asking a friend who has done something similar if the answer you arrived at looks correct. In another situation you could maybe reverse the process and work backwards, like you do when writing down a phone number spoken out loud.
 
-The idea is just to construct some quick test that would hopefully not fall prey to the same mistakes or traps that would trip you up while weighing the options up in the first place. Be sure to make sure that you also test for the negative case to avoid <a href="http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0">confirmation</a> <a href="https://en.wikipedia.org/wiki/Confirmation_bias">bias</a>.
+The idea is just to construct some quick test that would hopefully not fall prey to the same mistakes or traps that would trip you up while weighing the options up in the first place. Be sure to make sure that you also test for the negative case to avoid <a href="http://www.nytimes.com/interactive/2015/07/03/upshot/a-quick-puzzle-to-test-your-problem-solving.html?_r=0">confirmation</a><a href="https://en.wikipedia.org/wiki/Confirmation_bias">bias</a>.
 
 I am sure there are many other things that one should consider when making decisions. I though of a few more while writing this post. Please tell me about them in the comments section.

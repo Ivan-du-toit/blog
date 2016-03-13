@@ -2,6 +2,7 @@
 title = "Form URL encoded post with AngularJS"
 date = 2012-12-20T18:45:00Z
 updated = 2013-09-26T23:24:53Z
+aliases = ["/2012/12/form-url-encoded-post-with-angularjs.html"]
 tags = ["POST", "encoding", "Javascript", "AngularJS", "form"]
 blogimport = true
 author = "Ivan du Toit"

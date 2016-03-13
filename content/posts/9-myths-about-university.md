@@ -2,6 +2,7 @@
 title = "9 Myths About University"
 date = 2013-06-13T17:45:00Z
 updated = 2013-06-13T17:52:29Z
+aliases = ["/2013/06/9-myths-about-university.html"]
 tags = ["University", "Students", "Education", "Problem", "Teaching", "Exam", "Idea", "Learning"]
 blogimport = true
 author = "Ivan du Toit"

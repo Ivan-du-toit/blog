@@ -2,6 +2,7 @@
 title = "The practical value of a BSc CS degree."
 date = 2013-06-13T17:52:00Z
 updated = 2013-06-13T17:52:55Z
+aliases = ["/2013/06/the-practical-value-of-bsc-cs-degree.html"]
 tags = ["Job", "Students", "Education", "Decisions", "Exam", "quantification", "Student"]
 blogimport = true
 author = "Ivan du Toit"

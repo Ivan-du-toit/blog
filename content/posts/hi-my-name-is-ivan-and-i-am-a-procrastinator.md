@@ -2,6 +2,7 @@
 title = "Hi, My name is Ivan and I am a procrastinator"
 date = 2015-11-14T18:20:00Z
 updated = 2015-11-14T18:20:55Z
+aliases = ["/2015/11/hi-my-name-is-ivan-and-i-am.html"]
 tags = ["social", "think", "challenge", "Views", "Learning", "Opinion", "Ideas", "Thinking"]
 blogimport = true
 author = "Ivan du Toit"

@@ -2,6 +2,7 @@
 title = "How I hacked a site"
 date = 2012-08-30T00:58:00Z
 updated = 2013-08-23T02:40:42Z
+aliases = ["/2012/08/how-i-hacked-site.html"]
 tags = ["Programming", "websites", "xss", "Hacking", "sql injection"]
 blogimport = true
 author = "Ivan du Toit"

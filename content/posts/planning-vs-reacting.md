@@ -2,6 +2,7 @@
 title = "Planning vs Reacting"
 date = 2013-11-21T22:00:00Z
 updated = 2013-11-21T22:29:10Z
+aliases = ["/2013/11/planning-vs-reacting.html"]
 tags = ["Decisions", "Opinion", "Thinking"]
 blogimport = true
 author = "Ivan du Toit"

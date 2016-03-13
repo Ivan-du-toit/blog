@@ -3,6 +3,7 @@ title = "Favorite Quotes"
 date = 2016-02-14T21:25:00Z
 updated = 2016-02-14T21:25:45Z
 tags = ["Quotes"]
+aliases = ["/p/laws.html"]
 author = "Ivan du Toit"
 authorlink = "https://plus.google.com/109733145121386015159"
 +++

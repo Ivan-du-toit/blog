@@ -2,6 +2,7 @@
 title = "How I hacked a Site again and again"
 date = 2013-12-21T15:59:00Z
 updated = 2013-12-21T15:59:53Z
+aliases = ["/2013/11/how-i-hacked-site-again-and-again.html"]
 tags = ["Programming", "University", "security", "Hacking", "Education", "sql injection", "Teaching", "Learning", "software engineering"]
 blogimport = true
 author = "Ivan du Toit"

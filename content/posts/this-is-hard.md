@@ -2,6 +2,7 @@
 title = "This is hard!"
 date = 2015-06-21T22:06:00Z
 updated = 2015-06-21T22:06:54Z
+aliases = ["/2015/06/this-is-hard.html"]
 tags = ["think", "goal", "editing", "commitment", "Ideas", "every day", "writing"]
 blogimport = true
 author = "Ivan du Toit"

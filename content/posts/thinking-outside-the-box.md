@@ -2,6 +2,7 @@
 title = "Thinking outside the box"
 date = 2012-12-10T16:00:00Z
 updated = 2012-12-17T12:07:53Z
+aliases = ["/2012/12/thinking-outside-box.html"]
 tags = ["Programming", "Opinion", "Ideas", "Maths", "Domain"]
 blogimport = true
 author = "Ivan du Toit"
