@@ -19,11 +19,11 @@ Some of which I write about here.
 Most of which I will not write about here.
 
 <h3>I share</h3>
-Which is partly the reason this site exists.
-
-The reason for this sites existence are outlined [here]({{< ref "hello-world.md" >}})
+Which is partly the reason this site exists. For more read [this]({{< ref "hello-world.md" >}})
 
 If this is not enough for you to sample the pudding that is this site I bid thee farewell and wish you well in your
-travels through the thoughts and experience that is this wonderful web that this site calls home.
+travels through the experience that is this wonderful web which this site calls home.
+
+Everything I write here is my opinion and not those of my employer or any other entity that I may be affiliated with.
 
 -Ivan

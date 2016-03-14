@@ -4,6 +4,7 @@ theme = "redlounge"
 disqusShortname = "tryfinally"
 relativeURLs = true
 googleAnalytics = "UA-32927125-2"
+Copyright = "© 2016. CC BY-NC Ivan du Toit"
 [taxonomies]
     tag = "tags"
     category = "categories"
@@ -45,3 +46,9 @@ googleAnalytics = "UA-32927125-2"
 [[menu.footer]]
     name = "Quotes"
     url = "/pages/quotes"
+[[menu.footer]]
+    name = "Laws"
+    url = "/pages/laws"
+[[menu.footer]]
+    name = "Home"
+    url = "/pages/Home"
