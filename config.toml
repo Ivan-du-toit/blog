@@ -1,8 +1,8 @@
 languageCode = "en-us"
 title = "Try ... Finally"
+baseUrl = "https://www.tryfinally.co.za"
 theme = "redlounge"
 disqusShortname = "tryfinally"
-relativeURLs = true
 googleAnalytics = "UA-32927125-2"
 Copyright = "© 2016. CC BY-NC Ivan du Toit"
 [taxonomies]
