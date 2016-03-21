@@ -27,13 +27,13 @@ AWS
 
 I choose the AWS part of the stack really just because I want to get to know these services better and want to understand how they work practically. I think there is a bunch of easier and cheaper alternatives that could be used to host static websites like [github](https://gohugo.io/tutorials/github-pages-blog/) but that was not my goal right now.
 
-That said it was not difficult to get it to work. There where some fiddly bits like the fact that you should point to the S3 static site URL instead of the bucket, which is shown in Cloudfront as a option, otherwise it will not do bucket to index.html mappings like you would expect. This kind of thing is understandable but still very annoying since it does not obey the principle of [least]({{< ref "https://en.wikipedia.org/wiki/Principle_of_least_astonishment" >}}) [surprise]("http://www.catb.org/esr/writings/taoup/html/ch11s01.html").
+That said it was not difficult to get it to work. There where some fiddly bits like the fact that you should point to the S3 static site URL instead of the bucket, which is shown in Cloudfront as a option, otherwise it will not do bucket to index.html mappings like you would expect. This kind of thing is understandable but still very annoying since it does not obey the principle of [least](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) [surprise](http://www.catb.org/esr/writings/taoup/html/ch11s01.html).
 
 What really worked well was the SSL certificates. I just created the Cloudfront distribution, indicated that I wanted an SSL cert, completed the wizard and never worried about the cert again. It even works for all of my sub domains! Really cool stuff.
 
 Next
 ----
 
-I want to create some Hugo [archetypes]({{< ref "https://gohugo.io/content/archetypes/" >}}) for some of the different styles of posts that I plan to write. I also want to add some functionality on top of the content to enhance the experience but that is still in the early phases.
+I want to create some Hugo [archetypes](https://gohugo.io/content/archetypes/) for some of the different styles of posts that I plan to write. I also want to add some functionality on top of the content to enhance the experience but that is still in the early phases.
 
 Oh yeah and I have to write some content... I will, really.
