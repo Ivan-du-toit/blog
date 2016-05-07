@@ -71,3 +71,10 @@ This is a collection of quotes that I found profound or interestion. Enjoy:
 <p>
 <i>"Political correctness is a doctrine that holds forth the proposition that it is entirely possible to pick up a piece of shit by the clean end"</i> - <b>Harry truman</b></div>
 </p>
+
+_An expert is one who knows more and more about less and less until he knows absolutely everything about nothing."_ – __Nicholas Murray Butler__
+
+_"It is a miracle that curiosity survives formal education."_ – __Albert Einstein__
+
+_“A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.”_
+ - __Robert A. Heinlein__

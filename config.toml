@@ -5,6 +5,7 @@ theme = "redlounge"
 disqusShortname = "tryfinally"
 googleAnalytics = "UA-32927125-2"
 Copyright = "© 2016. CC BY-NC Ivan du Toit"
+PygmentsCodeFences = true
 [taxonomies]
     tag = "tags"
     category = "categories"
