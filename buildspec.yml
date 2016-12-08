@@ -1,0 +1,11 @@
+version: 0.1
+
+phases:
+    install:
+        - pip install Pygments
+        - apt-get install hugo
+    build:
+        - echo "******** Building site ********"
+        - hugo
+        - aws s3 sync public/ s3://blog.tryfinally.co.za/ --region us-east-1
+        - echo "******** Uploading to S3 ********"
