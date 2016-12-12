@@ -4,7 +4,8 @@ phases:
     install:
         commands:
             - pip install Pygments
-            - apt-get install hugo
+            - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17-64bit.deb
+            - dpkg -i hugo_0.17-64bit.deb
     build:
         commands:
             - echo Build started on `date`
