@@ -85,4 +85,3 @@ _"It ain't what you don't know that gets you into trouble. It's what you know fo
 _"In theory, there's no difference between theory and practice. In practice, there is."_ - __Yogi Berra__
 
 _"People need to be reminded more than to be instructed"_ - __Samuel Johnson__
-_"In theory, there's no difference between theory and practice. In practice, there is."_ - __Yogi Berra__
