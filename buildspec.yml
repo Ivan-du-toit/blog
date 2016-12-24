@@ -5,10 +5,10 @@ phases:
         commands:
             - pip install Pygments
             - wget https://github.com/spf13/hugo/releases/download/v0.18/hugo_0.18-64bit.deb
-            - dpkg -i hugo_0.17-64bit.deb
+            - dpkg -i hugo_0.18-64bit.deb
     build:
         commands:
-            - echo Build started on `date`
+            - echo Build started
             - hugo
             - aws s3 sync public/ s3://blog.tryfinally.co.za/ --region us-east-1
             - echo "******** Uploading to S3 ********"
