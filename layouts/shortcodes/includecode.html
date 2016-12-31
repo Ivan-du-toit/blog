@@ -1,0 +1,10 @@
+{{- $codeFile := .Get "file" -}}
+{{- $codeType := .Get "codeType" -}}
+<figure>
+    <div>
+        {{ highlight (readFile $codeFile) $codeType "linenos=true" }}
+    </div>
+    <figcaption>
+        <span class="codeTitle">{{ .Get "title" }}</span>
+    </figcaption>
+</figure>
