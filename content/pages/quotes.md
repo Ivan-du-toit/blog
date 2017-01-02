@@ -36,12 +36,6 @@ This is a collection of quotes that I found profound or interestion. Enjoy:
 <i>"For a change, lady luck seemed to be smiling on me. Then again, maybe the fickle wench was just lulling me into a false sense of security while she reached for a rock."</i> - The Icarus Hunt, by <b>Timothy Zahn</b>
 </p>
 <p>
-<i>"A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, play solitaire, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."</i> - <b>Robert Heinlein</b> (slightly edited)
-</p>
-<p>
-<i>Theory vs practice: "In theory there is no difference between theory and practice. In practice, there is."</i> - <b>Yogi Berra</b>
-</p>
-<p>
 <i>"Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats."</i> - <b>Howard Aiken</b>
 </p>
 <p>
