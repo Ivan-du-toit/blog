@@ -1,5 +1,5 @@
 +++
-title = "Hugo continuous building AWS CodeBuild"
+title = "Building Hugo Sites Automatically Using AWS CodeBuild"
 Tags = [
     "Blog"
     ,"AWS"
