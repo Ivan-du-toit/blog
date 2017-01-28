@@ -8,10 +8,10 @@ phases:
             - dpkg -i hugo_0.18-64bit.deb
     build:
         commands:
-            - echo Build started
             - hugo
-            - aws s3 sync public/ s3://blog.tryfinally.co.za/ --region us-east-1
             - echo "******** Uploading to S3 ********"
+            - aws s3 sync public/ s3://blog.tryfinally.co.za/ --region us-east-1
+            - echo "******** Done! ********"
 
     post_build:
         commands:
