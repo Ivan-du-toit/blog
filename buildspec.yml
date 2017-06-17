@@ -4,8 +4,8 @@ phases:
     install:
         commands:
             - pip install Pygments
-            - wget https://github.com/spf13/hugo/releases/download/v0.18/hugo_0.18-64bit.deb
-            - dpkg -i hugo_0.18-64bit.deb
+            - wget https://github.com/gohugoio/hugo/releases/download/v0.21/hugo_0.21_Linux-64bit.deb
+            - dpkg -i hugo_0.21_Linux-64bit.deb
     build:
         commands:
             - hugo
