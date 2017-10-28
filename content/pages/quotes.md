@@ -63,3 +63,5 @@ _"People need to be reminded more than to be instructed"_ - __Samuel Johnson__
 _"Success is going from failure to failure without losing your enthusiasm."_ - __Winston Churchill__
 
 _"Failure is simply the opportunity to begin again, this time more intelligently."_ - __Henry Ford__
+
+_"'Follow your dreams'? Fuck your dreams! Try stuff and see what makes you happy."_ - __Richard Campbell__
