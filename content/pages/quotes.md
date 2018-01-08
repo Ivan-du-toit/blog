@@ -65,3 +65,13 @@ _"Success is going from failure to failure without losing your enthusiasm."_ - _
 _"Failure is simply the opportunity to begin again, this time more intelligently."_ - __Henry Ford__
 
 _"'Follow your dreams'? Fuck your dreams! Try stuff and see what makes you happy."_ - __Richard Campbell__
+
+_"It’s lonely at the top. 99% of people are convinced they are incapable of achieving great things, so they aim for mediocre. The level of competition is thus fiercest for ‘realistic’ goals, paradoxically making them the most competitive."_ - __Tim Ferriss__
+
+_"We can be truly successful only at things we are willing to fail at."_ - __Mark Manson__
+
+_"All of us, more than we recognize, are products of the thinking around us. And much of this thinking is small."_ - __David Schwartz__
+
+_"Would you like me to give you a formula for success? It’s quite simple, really: Double your rate of failure. You are thinking of failure as the enemy of success. But it isn’t at all. You can be discouraged by failure or you can learn from it, so go ahead and make mistakes. Make all you can. Because remember that’s where you will find success."_ - __Thomas J. Watson__
+
+_"Every skill you acquire doubles your odds of success."_ - __Scott Adams__
