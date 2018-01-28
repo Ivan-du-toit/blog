@@ -1,0 +1,35 @@
+---
+hide_body: false
+fields:
+- name: Description
+  label: Description
+  type: text
+  hidden: false
+  default: ''
+- name: Tags
+  label: Tags
+  type: list
+  hidden: false
+  default:
+  - Blog
+- name: Categories
+  label: Categories
+  type: list
+  hidden: false
+  default:
+  - Blog
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: Ivan du Toit
+- name: authorLink
+  label: Authorlink
+  type: text
+  hidden: false
+  default: https://www.twitter.com/anilihst
