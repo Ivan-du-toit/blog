@@ -1,0 +1,31 @@
+---
+hide_body: false
+fields:
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: ''
+- name: Tags
+  label: Tags
+  type: list
+  hidden: false
+  default:
+  - Book
+  - Summary
+- name: Categories
+  label: Categories
+  type: list
+  hidden: false
+  default:
+  - Books
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: Ivan du Toit

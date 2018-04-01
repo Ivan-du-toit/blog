@@ -9,4 +9,4 @@ webhook_url:
 sections:
   finally:
     default_front_matter_template: finally
-version: 0.22.1
+version: 0.31.1
