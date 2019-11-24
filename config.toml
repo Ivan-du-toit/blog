@@ -2,9 +2,10 @@ languageCode = "en-us"
 title = "Try ... Finally"
 baseUrl = "https://www.tryfinally.co.za"
 theme = "redlounge"
-disqusShortname = "tryfinally"
 googleAnalytics = "UA-32927125-2"
 Copyright = "© 2016. CC BY-NC Ivan du Toit"
+enableGitInfo = "false"
+uglyURLs = true
 PygmentsCodeFences = true
 [taxonomies]
     tag = "tags"
