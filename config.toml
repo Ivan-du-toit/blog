@@ -19,13 +19,13 @@ PygmentsCodeFences = true
     sidebarphoto = "/img/profile.jpg"
 [[menu.main]]
     Name = "Blog"
-    url = "/posts"
+    url = "/posts.html"
 [[menu.main]]
 	Name = "Quotes"
-	url = "/pages/quotes"
+	url = "/pages/quotesi.html"
 [[menu.main]]
 	Name = "Laws"
-	url = "/pages/laws"
+	url = "/pages/laws.html"
 [[menu.social]]
         pre = "<i class='fa fa-twitter'></i>"
     url = "https://www.twitter.com/anilihst"
@@ -44,13 +44,13 @@ PygmentsCodeFences = true
     identifier = "RSS"
 [[menu.footer]]
     name = "Blog"
-    url = "/posts"
+    url = "/posts.html"
 [[menu.footer]]
     name = "Quotes"
-    url = "/pages/quotes"
+    url = "/pages/quotes.html"
 [[menu.footer]]
     name = "Laws"
-    url = "/pages/laws"
+    url = "/pages/laws.html"
 [[menu.footer]]
     name = "Home"
-    url = "/pages/Home"
+    url = "/pages/Home.html"
