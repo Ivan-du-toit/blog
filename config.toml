@@ -22,7 +22,7 @@ PygmentsCodeFences = true
     url = "/posts.html"
 [[menu.main]]
 	Name = "Quotes"
-	url = "/pages/quotesi.html"
+	url = "/pages/quotes.html"
 [[menu.main]]
 	Name = "Laws"
 	url = "/pages/laws.html"
